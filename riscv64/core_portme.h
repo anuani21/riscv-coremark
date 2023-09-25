@@ -37,6 +37,7 @@ Original Author: Shay Gal-on
 #ifndef HAS_TIME_H
 #define HAS_TIME_H 0
 #endif
+#clock config
 /* Configuration: USE_CLOCK
 	Define to 1 if platform has the time.h header file,
 	and implementation of functions thereof.
